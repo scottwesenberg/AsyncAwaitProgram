@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\bin\Debug\net6.0\AsyncAwaitProgram.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\bin\Debug\net6.0\AsyncAwaitProgram.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\bin\Debug\net6.0\AsyncAwaitProgram.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\bin\Debug\net6.0\AsyncAwaitProgram.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\bin\Debug\net6.0\AsyncAwaitProgram.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\refint\AsyncAwaitProgram.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\AsyncAwaitProgram.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\assignment10\AsyncAwaitProgram\AsyncAwaitProgram\obj\Debug\net6.0\ref\AsyncAwaitProgram.dll
